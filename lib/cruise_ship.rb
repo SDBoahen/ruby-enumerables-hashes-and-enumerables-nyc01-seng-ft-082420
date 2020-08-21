@@ -22,7 +22,7 @@ def
       winner = name
     end
   end
-
+  
   winner
   
 end
